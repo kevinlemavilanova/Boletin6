@@ -21,6 +21,8 @@ public class Practicacontornos {
         int commit3;
         int commit4;
         int commit5;
+        int comminExp1;
+        int commitExp2;
         
     }
     
