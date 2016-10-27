@@ -18,6 +18,7 @@ public class Practicacontornos {
         // TODO code application logic here
         int commit1;
         int commit2;
+        int commit3;
         
     }
     
