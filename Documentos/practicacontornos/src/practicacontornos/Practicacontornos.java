@@ -20,6 +20,7 @@ public class Practicacontornos {
         int commit2;
         int commit3;
         int commit4;
+        int commitV2;
         
     }
     
