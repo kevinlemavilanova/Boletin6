@@ -26,7 +26,6 @@ public class Boletin6 {
         cuenta1.transferencia(cuenta2, 160);
         System.out.println(cuenta1.mostrardatos());
         System.out.println(cuenta2.mostrardatos());
-
     }
     
 }
